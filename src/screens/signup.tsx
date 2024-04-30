@@ -292,7 +292,6 @@ class Signup extends React.Component<
           layout="first"
           withDarkTheme
           withShadow
-          autoFocus
           renderDropdownImage={
             <Image source={require('../assets/images/dropdown_icon.png')} />
           }
